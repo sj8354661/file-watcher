@@ -1,5 +1,5 @@
 {
-    "name": "koala-framework/file-watcher-mine",
+    "name": "koala-framework-mine/file-watcher-mine",
     "description": "Library for watching for file system changes",
     "homepage": "http://www.koala-framework.org/",
     "license": "BSD-2-Clause",
